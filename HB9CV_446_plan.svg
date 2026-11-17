@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" font-family="Arial, Helvetica, sans-serif" font-size="12">
+<rect width="1000" height="720" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="#333"/></marker></defs>
+<text x="20" y="30" font-size="17" font-weight="bold">HB9CV 446,1 MHz (PMR446) — topologie DK7ZB, ligne de phase croisée traversant le boom</text>
+<text x="20" y="50" fill="#555">Vue de dessus, plan des éléments. Cotes en mm, d’axe à axe. Avant (lobe principal) = côté radiateur →. F5OWB / 9H2WB — 30/10/2026</text>
+<rect x="220.0" y="382.5" width="193.5" height="15.0" fill="#e8b48a" stroke="#8a5a2b"/>
+<rect x="247.0" y="141.0" width="6.0" height="498.0" fill="#c87533" stroke="#7a3f10"/>
+<text x="250.0" y="131.0" text-anchor="middle" font-weight="bold">RÉFLECTEUR</text>
+<rect x="373.0" y="168.75" width="6.0" height="442.5" fill="#c87533" stroke="#7a3f10"/>
+<text x="376.0" y="158.75" text-anchor="middle" font-weight="bold">RADIATEUR</text>
+<polyline fill="none" stroke="#1565c0" stroke-width="2.4" points="250.0,307.5 261.8,307.5 261.8,375.2 313.0,375.2 313.0,404.8 364.2,404.8 364.2,460.5 376.0,460.5"/>
+<circle cx="250.0" cy="307.5" r="4" fill="#1565c0"/>
+<circle cx="376.0" cy="460.5" r="4" fill="#1565c0"/>
+<circle cx="313.0" cy="390.0" r="3.75" fill="#fff" stroke="#1565c0"/>
+<circle cx="364.16499999999996" cy="404.835" r="4.5" fill="#d32f2f"/><text x="356.16499999999996" y="420.835" text-anchor="end" fill="#d32f2f" font-weight="bold" font-size="14">X</text>
+<rect x="388.0" y="382.5" width="18.0" height="15.0" fill="#999" stroke="#333"/>
+<line x1="388.0" y1="394.5" x2="367.16499999999996" y2="401.835" stroke="#d32f2f" stroke-width="1.6"/>
+<line x1="262.835" y1="340.5" x2="301.835" y2="310.5" stroke="#777" stroke-dasharray="3,2"/>
+<circle cx="309.835" cy="304.5" r="9" fill="#fff" stroke="#000"/><text x="309.835" y="308.5" text-anchor="middle" font-weight="bold" font-size="11">1</text>
+<line x1="313.0" y1="390.0" x2="303.0" y2="457.5" stroke="#777" stroke-dasharray="3,2"/>
+<circle cx="299.0" cy="465.0" r="9" fill="#fff" stroke="#000"/><text x="299.0" y="469.0" text-anchor="middle" font-weight="bold" font-size="11">2</text>
+<line x1="397.0" y1="390.0" x2="421.0" y2="352.5" stroke="#777" stroke-dasharray="3,2"/>
+<circle cx="427.0" cy="345.0" r="9" fill="#fff" stroke="#000"/><text x="427.0" y="349.0" text-anchor="middle" font-weight="bold" font-size="11">3</text>
+<line x1="368.899" y1="409.335" x2="331.0" y2="502.5" stroke="#777" stroke-dasharray="3,2"/>
+<circle cx="325.0" cy="510.0" r="9" fill="#fff" stroke="#000"/><text x="325.0" y="514.0" text-anchor="middle" font-weight="bold" font-size="11">4</text>
+<line x1="182.5" y1="639.0" x2="182.5" y2="141.0" stroke="#333" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="178.5" y1="639.0" x2="186.5" y2="639.0" stroke="#333"/>
+<line x1="178.5" y1="141.0" x2="186.5" y2="141.0" stroke="#333"/>
+<text x="175.5" y="394.0" text-anchor="end" font-weight="bold">332</text>
+<line x1="496.0" y1="611.25" x2="496.0" y2="168.75" stroke="#333" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="492.0" y1="611.25" x2="500.0" y2="611.25" stroke="#333"/>
+<line x1="492.0" y1="168.75" x2="500.0" y2="168.75" stroke="#333"/>
+<text x="503.0" y="394.0" text-anchor="start" font-weight="bold">295</text>
+<line x1="250.0" y1="660.0" x2="376.0" y2="660.0" stroke="#333" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="313.0" y="676.0" text-anchor="middle" font-weight="bold">84 (λ/8)</text>
+<line x1="223.0" y1="390.0" x2="223.0" y2="307.5" stroke="#333" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="219.0" y1="390.0" x2="227.0" y2="390.0" stroke="#333"/>
+<line x1="219.0" y1="307.5" x2="227.0" y2="307.5" stroke="#333"/>
+<text x="216.0" y="352.75" text-anchor="end" font-weight="bold">55</text>
+<line x1="451.0" y1="390.0" x2="451.0" y2="460.5" stroke="#333" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="447.0" y1="390.0" x2="455.0" y2="390.0" stroke="#333"/>
+<line x1="447.0" y1="460.5" x2="455.0" y2="460.5" stroke="#333"/>
+<text x="458.0" y="429.25" text-anchor="start" font-weight="bold">47</text>
+<rect x="578" y="88" width="400" height="486" fill="#f6f8fa" stroke="#ccc"/>
+<text x="590" y="110" font-weight="bold">Repères</text>
+<text x="590" y="128">① Ligne : fil Cu rigide 2,5 mm² (Ø1,78) dénudé,</text>
+<text x="590" y="146">    à 5 mm (bord à bord) des éléments, 4 mm du boom.</text>
+<text x="590" y="164">② Trou Ø4 traversant le boom à 42 mm (mi-distance),</text>
+<text x="590" y="182">    axe parallèle aux éléments ; garder l’isolant</text>
+<text x="590" y="200">    PVC du fil dans le trou.</text>
+<text x="590" y="218">③ Embase BNC/SMA sur le boom au pied du radiateur ;</text>
+<text x="590" y="236">    masse = boom.</text>
+<text x="590" y="254">④ Point X : âme → C ≈ 6,7 pF → X</text>
+<text x="590" y="272">    (ajustable 2–10 pF, puis fixe NP0 de même valeur).</text>
+<text x="590" y="290" font-weight="bold">Mécanique</text>
+<text x="590" y="308">Éléments tube Cu Ø4, continus, soudés au boom</text>
+<text x="590" y="326">  en leur centre (point froid, tension nulle).</text>
+<text x="590" y="344">Prises soudées : réflecteur 55 mm côté +,</text>
+<text x="590" y="362">  radiateur 47 mm côté − (ligne croisée).</text>
+<text x="590" y="380">Boom Cu Ø10 ; poignée isolante derrière le réflecteur.</text>
+<text x="590" y="398" font-weight="bold">Simulation NEC-2, 446,1 MHz, espace libre</text>
+<text x="590" y="416">Z = 51 Ω ; ROS ≤ 1,02 sur 446,0–446,2 MHz</text>
+<text x="590" y="434">ROS ≤ 1,2 de 443 à 449 MHz</text>
+<text x="590" y="452">AV/AR ≈ 19 dB ; ouverture −3 dB ≈ 80° (plan H)</text>
+<text x="590" y="470">Gain ≈ 4 dBd (corrigé de l’AGT)</text>
+<text x="590" y="488">Tolérances ±1 mm : ROS ≤ 1,07, AV/AR ≥ 18 dB</text>
+<text x="590" y="506" font-weight="bold">Réglage</text>
+<text x="590" y="524">Ajuster C au ROS mini. Si ROS mini > 1,3 :</text>
+<text x="590" y="542">  déplacer la prise radiateur de ±3 mm.</text>
+<text x="590" y="560">Variante éléments Ø3 : réfl. 334, rad. 301 mm.</text>
+</svg>
